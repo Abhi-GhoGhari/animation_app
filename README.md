@@ -1,16 +1,10 @@
-# animation_app
+><img src = "https://github.com/user-attachments/assets/ca509b30-8c1d-4923-aa51-15791c75f7b8" width = "250">
+><img src = "https://github.com/user-attachments/assets/d5d20274-c0c1-4816-a7d8-db06fc25b506" width = "250">
+><img src = "https://github.com/user-attachments/assets/f589cdd3-1239-40b3-a0ec-eada14fc50bf" width = "250">
+><img src = "https://github.com/user-attachments/assets/20553314-bd52-4f31-8383-f1c0be32e96b" width = "250">
 
-A new Flutter project.
 
-## Getting Started
+>[Screen_recording_intopage.webm](https://github.com/user-attachments/assets/aca2891a-ec64-48fa-999d-78624a7b8c8c)
 
-This project is a starting point for a Flutter application.
+>https://github.com/user-attachments/assets/1ea789de-6a03-43e7-af39-c8df19ea4585
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
